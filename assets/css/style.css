@@ -1,0 +1,50 @@
+body {
+  background-image: url("../images/film-bg.jpg");
+}
+h1 {
+  background-color:#FFDEAD;
+  text-align: center;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-top: 50px;
+  font-size: 100px;
+  color:#03303d;
+  border-style: double;
+  border-width: 5px;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+#quiz-area{
+  background-color:#FFDEAD;
+  text-align: center;
+  font-size: 20px;
+  color:#03303d;
+  font-family: "Lucida Console", Monaco, monospace;
+  height:300px;
+  margin-top: 50px;
+}
+#start {
+    background-color:#FFDEAD;
+    border-style: double;
+    color:#03303d;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 56px;
+    font-family: "Lucida Console", Monaco, monospace;
+    border-width: 5px;
+    position: absolute;
+    top:300px;
+    left: 600px;
+}
+#subwrapper{
+  color:#03303d;
+  text-align: center;
+  font-size: 56px;
+  font-family: "Lucida Console", Monaco, monospace;
+  background-color:#FFDEAD;
+  border-style: double;
+  border-width: 5px;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-top: 50px;
+}
